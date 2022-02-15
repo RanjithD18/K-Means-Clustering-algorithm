@@ -54,11 +54,6 @@ print('Labels:', kmean.labels_)
 
 predicted_class = kmean.predict([[9000,120]])
 print('The cluster group for Applicant Income 9000 and loanamount 120',predicted_class)
-
-
-
-
-
 ```
 ## Output:
 ![output](https://github.com/RanjithD18/K-Means-Clustering-algorithm/blob/master/maths.jpeg)
