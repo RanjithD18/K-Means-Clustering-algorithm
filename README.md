@@ -7,20 +7,20 @@ To write a python program to implement K-Means Clustering Algorithm.
 
 ## Algorithm:
 
-### Step1
-<br>
+### Step1:
+Import the necessary packages using import statement.
 
-### Step2
-<br>
+### Step2:
+Read the given csv file using read_csv() method and print the number of contents to be displayed using df.head().
 
 ### Step3
-<br>
+Plot a graph for the applicant income vs loan amount lot using sns.scatterplot.
 
 ### Step4
-<br>
+Obtain the kmeam clustering, display the clusters using .cluster_centers_ and the labels using .labels_ .
 
 ### Step5
-<br>
+Predict the k means using kmean.predict() method and display the result.
 
 ## Program:
 ~~~
